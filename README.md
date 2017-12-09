@@ -10,3 +10,4 @@ program change this string in the sum of this numbers. If there weren't numbers,
 script1.sh compile main.c with function task1.c, run tests in T1. Then run a coverage with lcov. Herewith create file of valgrind analysis.
 
 script2.sh does the same things with task2.c
+
